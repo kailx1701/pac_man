@@ -1,0 +1,22 @@
+name: Build Mac App
+on: [push, workflow_dispatch]
+
+jobs:
+  build-mac:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install pyinstaller
+      - name: Build app
+        run: |
+          pyinstaller --noconfirm --onedir --windowed --add-data "maps:maps" --add-data "assets:assets" main.py
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Pacman-Mac-App
+          path: dist/main.app
+          
