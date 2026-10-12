@@ -1,0 +1,1640 @@
+Algorithm: MINIMAX (safe_plan)        Decision no.1
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 59
+Decision time: 0.000926 seconds (0.93 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.2
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 64
+Decision time: 0.001375 seconds (1.38 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.3
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 59
+Decision time: 0.001594 seconds (1.59 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.4
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 68
+Decision time: 0.001031 seconds (1.03 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.5
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 71
+Decision time: 0.000874 seconds (0.87 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.6
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 82
+Decision time: 0.001796 seconds (1.80 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.7
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 85
+Decision time: 0.001212 seconds (1.21 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.8
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 94
+Decision time: 0.001339 seconds (1.34 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.9
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 93
+Decision time: 0.001758 seconds (1.76 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.10
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 94
+Decision time: 0.001593 seconds (1.59 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.11
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 96
+Decision time: 0.001000 seconds (1.00 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.12
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 101
+Decision time: 0.001608 seconds (1.61 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.13
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 103
+Decision time: 0.001485 seconds (1.49 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.14
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 111
+Decision time: 0.002056 seconds (2.06 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.15
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 114
+Decision time: 0.000649 seconds (0.65 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.16
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 119
+Decision time: 0.001545 seconds (1.55 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.17
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 103
+Decision time: 0.001576 seconds (1.58 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.18
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 99
+Decision time: 0.000691 seconds (0.69 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.19
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 103
+Decision time: 0.001198 seconds (1.20 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.20
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 104
+Decision time: 0.001614 seconds (1.61 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.21
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 99
+Decision time: 0.001340 seconds (1.34 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.22
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 95
+Decision time: 0.001589 seconds (1.59 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.23
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 85
+Decision time: 0.000633 seconds (0.63 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.24
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 81
+Decision time: 0.001192 seconds (1.19 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.25
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 65
+Decision time: 0.001254 seconds (1.25 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.26
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 65
+Decision time: 0.001046 seconds (1.05 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.27
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 57
+Decision time: 0.001177 seconds (1.18 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.28
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 44
+Decision time: 0.001115 seconds (1.11 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.29
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 43
+Decision time: 0.000913 seconds (0.91 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.30
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 37
+Decision time: 0.000641 seconds (0.64 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.31
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 0
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 0
+Decision time: 0.002140 seconds (2.14 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.32
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 35
+Decision time: 0.000499 seconds (0.50 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.33
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 35
+Decision time: 0.000955 seconds (0.95 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.34
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 35
+Decision time: 0.000582 seconds (0.58 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.35
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 33
+Decision time: 0.000965 seconds (0.97 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.36
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 28
+Decision time: 0.001006 seconds (1.01 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.37
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 16
+Decision time: 0.000544 seconds (0.54 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.38
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 4
+Decision time: 0.006266 seconds (6.27 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.39
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 6
+Chosen action: UP
+Evaluation value: -1000002.00
+Nodes expanded: 9274
+Decision time: 0.014244 seconds (14.24 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.40
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 6
+Chosen action: UP
+Evaluation value: -1000018.00
+Nodes expanded: 3970
+Decision time: 0.012000 seconds (12.00 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.41
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 6
+Chosen action: UP
+Evaluation value: -262.00
+Nodes expanded: 11329
+Decision time: 0.026522 seconds (26.52 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.42
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 6
+Chosen action: UP
+Evaluation value: -271.00
+Nodes expanded: 22879
+Decision time: 0.042685 seconds (42.69 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.43
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 5
+Chosen action: LEFT
+Evaluation value: -229.00
+Nodes expanded: 17152
+Decision time: 0.043336 seconds (43.34 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.44
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 5
+Chosen action: LEFT
+Evaluation value: -214.00
+Nodes expanded: 22272
+Decision time: 0.043071 seconds (43.07 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.45
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 5
+Chosen action: LEFT
+Evaluation value: -148.60
+Nodes expanded: 28160
+Decision time: 0.041996 seconds (42.00 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.46
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 5
+Chosen action: LEFT
+Evaluation value: -151.60
+Nodes expanded: 20736
+Decision time: 0.042628 seconds (42.63 ms)
+----------------------------------------
+Algorithm: MINIMAX (alpha_beta)        Decision no.47
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 6
+Chosen action: LEFT
+Evaluation value: -37.00
+Nodes expanded: 18438
+Decision time: 0.038460 seconds (38.46 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.48
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 21
+Decision time: 0.000549 seconds (0.55 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.49
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 13
+Decision time: 0.001445 seconds (1.45 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.50
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 8
+Decision time: 0.001137 seconds (1.14 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.51
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 8
+Decision time: 0.001156 seconds (1.16 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.52
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 16
+Decision time: 0.002559 seconds (2.56 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.53
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 16
+Decision time: 0.001104 seconds (1.10 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.54
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 18
+Decision time: 0.001255 seconds (1.26 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.55
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 18
+Decision time: 0.000917 seconds (0.92 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.56
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 18
+Decision time: 0.000931 seconds (0.93 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.57
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 19
+Decision time: 0.000575 seconds (0.57 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.58
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 19
+Decision time: 0.000687 seconds (0.69 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.59
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 19
+Decision time: 0.000715 seconds (0.72 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.60
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 24
+Decision time: 0.000536 seconds (0.54 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.61
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 46
+Decision time: 0.000912 seconds (0.91 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.62
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 63
+Decision time: 0.000972 seconds (0.97 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.63
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 67
+Decision time: 0.000978 seconds (0.98 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.64
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 78
+Decision time: 0.000718 seconds (0.72 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.65
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 80
+Decision time: 0.001072 seconds (1.07 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.66
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 93
+Decision time: 0.000799 seconds (0.80 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.67
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 86
+Decision time: 0.000861 seconds (0.86 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.68
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 83
+Decision time: 0.000842 seconds (0.84 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.69
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 79
+Decision time: 0.001442 seconds (1.44 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.70
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 83
+Decision time: 0.000665 seconds (0.67 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.71
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 55
+Decision time: 0.001041 seconds (1.04 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.72
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 39
+Decision time: 0.000753 seconds (0.75 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.73
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 40
+Decision time: 0.000697 seconds (0.70 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.74
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 50
+Decision time: 0.001091 seconds (1.09 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.75
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 51
+Decision time: 0.001536 seconds (1.54 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.76
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 58
+Decision time: 0.000822 seconds (0.82 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.77
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 59
+Decision time: 0.000619 seconds (0.62 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.78
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 61
+Decision time: 0.000639 seconds (0.64 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.79
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 77
+Decision time: 0.000975 seconds (0.98 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.80
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 98
+Decision time: 0.001477 seconds (1.48 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.81
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 80
+Decision time: 0.001282 seconds (1.28 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.82
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 72
+Decision time: 0.001178 seconds (1.18 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.83
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 53
+Decision time: 0.000795 seconds (0.79 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.84
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 55
+Decision time: 0.001148 seconds (1.15 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.85
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 63
+Decision time: 0.001086 seconds (1.09 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.86
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 84
+Decision time: 0.000699 seconds (0.70 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.87
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 95
+Decision time: 0.001111 seconds (1.11 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.88
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 129
+Decision time: 0.001182 seconds (1.18 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.89
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 118
+Decision time: 0.001139 seconds (1.14 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.90
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 136
+Decision time: 0.001233 seconds (1.23 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.91
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 162
+Decision time: 0.000850 seconds (0.85 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.92
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 146
+Decision time: 0.001661 seconds (1.66 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.93
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 124
+Decision time: 0.000710 seconds (0.71 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.94
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 72
+Decision time: 0.001045 seconds (1.05 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.95
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 107
+Decision time: 0.001084 seconds (1.08 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.96
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 136
+Decision time: 0.000725 seconds (0.72 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.97
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 158
+Decision time: 0.001869 seconds (1.87 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.98
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 174
+Decision time: 0.000940 seconds (0.94 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.99
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 171
+Decision time: 0.000893 seconds (0.89 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.100
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 164
+Decision time: 0.001749 seconds (1.75 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.101
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 155
+Decision time: 0.001620 seconds (1.62 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.102
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 143
+Decision time: 0.002279 seconds (2.28 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.103
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 108
+Decision time: 0.001377 seconds (1.38 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.104
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 122
+Decision time: 0.001442 seconds (1.44 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.105
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 117
+Decision time: 0.000751 seconds (0.75 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.106
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 111
+Decision time: 0.000684 seconds (0.68 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.107
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 113
+Decision time: 0.000680 seconds (0.68 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.108
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 113
+Decision time: 0.000791 seconds (0.79 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.109
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 109
+Decision time: 0.000707 seconds (0.71 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.110
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 112
+Decision time: 0.000831 seconds (0.83 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.111
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 96
+Decision time: 0.000644 seconds (0.64 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.112
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 103
+Decision time: 0.001538 seconds (1.54 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.113
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 66
+Decision time: 0.000616 seconds (0.62 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.114
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 73
+Decision time: 0.000869 seconds (0.87 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.115
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 95
+Decision time: 0.001545 seconds (1.54 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.116
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 89
+Decision time: 0.000704 seconds (0.70 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.117
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 76
+Decision time: 0.000645 seconds (0.64 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.118
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 63
+Decision time: 0.000679 seconds (0.68 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.119
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 62
+Decision time: 0.000860 seconds (0.86 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.120
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 57
+Decision time: 0.001396 seconds (1.40 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.121
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 50
+Decision time: 0.000956 seconds (0.96 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.122
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 38
+Decision time: 0.000588 seconds (0.59 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.123
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 20
+Decision time: 0.001212 seconds (1.21 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.124
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 28
+Decision time: 0.001284 seconds (1.28 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.125
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 27
+Decision time: 0.001114 seconds (1.11 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.126
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 35
+Decision time: 0.000853 seconds (0.85 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.127
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 39
+Decision time: 0.001015 seconds (1.01 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.128
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 55
+Decision time: 0.000792 seconds (0.79 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.129
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 78
+Decision time: 0.000704 seconds (0.70 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.130
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 88
+Decision time: 0.003021 seconds (3.02 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.131
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 90
+Decision time: 0.000940 seconds (0.94 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.132
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 61
+Decision time: 0.001421 seconds (1.42 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.133
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 40
+Decision time: 0.001450 seconds (1.45 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.134
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 22
+Decision time: 0.000535 seconds (0.53 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.135
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 22
+Decision time: 0.001382 seconds (1.38 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.136
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 22
+Decision time: 0.001488 seconds (1.49 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.137
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 21
+Decision time: 0.000975 seconds (0.98 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.138
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 19
+Decision time: 0.000546 seconds (0.55 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.139
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 13
+Decision time: 0.001330 seconds (1.33 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.140
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 13
+Decision time: 0.001570 seconds (1.57 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.141
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 17
+Decision time: 0.000853 seconds (0.85 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.142
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 21
+Decision time: 0.001290 seconds (1.29 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.143
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 22
+Decision time: 0.000913 seconds (0.91 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.144
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 23
+Decision time: 0.000801 seconds (0.80 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.145
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 26
+Decision time: 0.001095 seconds (1.09 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.146
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 44
+Decision time: 0.001057 seconds (1.06 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.147
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 64
+Decision time: 0.001253 seconds (1.25 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.148
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 98
+Decision time: 0.001542 seconds (1.54 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.149
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 124
+Decision time: 0.001292 seconds (1.29 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.150
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 111
+Decision time: 0.001467 seconds (1.47 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.151
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: LEFT
+Evaluation value: N/A
+Nodes expanded: 110
+Decision time: 0.001820 seconds (1.82 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.152
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 104
+Decision time: 0.001076 seconds (1.08 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.153
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 107
+Decision time: 0.001100 seconds (1.10 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.154
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 129
+Decision time: 0.001326 seconds (1.33 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.155
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 140
+Decision time: 0.001262 seconds (1.26 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.156
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 160
+Decision time: 0.001874 seconds (1.87 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.157
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 175
+Decision time: 0.002285 seconds (2.28 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.158
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: DOWN
+Evaluation value: N/A
+Nodes expanded: 184
+Decision time: 0.001941 seconds (1.94 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.159
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 191
+Decision time: 0.001158 seconds (1.16 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.160
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 194
+Decision time: 0.000949 seconds (0.95 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.161
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 171
+Decision time: 0.001843 seconds (1.84 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.162
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: UP
+Evaluation value: N/A
+Nodes expanded: 145
+Decision time: 0.001433 seconds (1.43 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.163
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 93
+Decision time: 0.001725 seconds (1.73 ms)
+----------------------------------------
+Algorithm: MINIMAX (safe_plan)        Decision no.164
+
+Agent: Pacman (MAX) vs 2 Ghost(s) (MIN)
+Ghosts considered: 2
+Search depth: 0
+Chosen action: RIGHT
+Evaluation value: N/A
+Nodes expanded: 97
+Decision time: 0.002297 seconds (2.30 ms)
+----------------------------------------
